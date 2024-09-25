@@ -6,7 +6,7 @@ I’m currently expanding my expertise in NLP, Knowledge Discovery in Databases 
 #### 🎓 Education : 
 I am pursuing a Master of Science in Machine Learning at Stevens Institute of Technology. My current coursework includes Data Mining, Natural Language Processing (NLP), and Mathematical Foundations of Machine Learning. 
 #### 🤔 Upskilling...
-I’m mastering advanced  AI algorithms to enhance my problem-solving skills. I am also upskilling in SQL, data analytics tools, and AI/MLNdomain.
+I’m mastering advanced  AI algorithms to enhance my problem-solving skills. I am also upskilling in SQL, data analytics tools, and AI/ML domain.
 #### 💼 Career Interests :
 I am actively exploring opportunities for Data Analyst/ML Engineer positions and have obtained certifications in Power BI and AI to enhance my analytical and technical skill set. Additionally, I am interested in exploring Large Language Models (LLMs) and their applications.
 
